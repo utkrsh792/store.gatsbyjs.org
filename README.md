@@ -7,7 +7,7 @@
   Gatsby <a href="https://store.gatsbyjs.org">Swag Store</a>
 </h1>
 
-This is the Gatsby store, where we make swag, stickers, and other Gatsby goodies available to contributors and Gatsby enthusiasts. 💪💜
+This is the Gatsby store, where we make swags, stickers, and other Gatsby goodies available to contributors and Gatsby enthusiasts. 💪💜
 
 <p align="center">
   <img alt="Gatsby socks with Dora for scale." src="https://store.gatsbyjs.org/instagram-doraforscale.jpg" />
@@ -24,7 +24,7 @@ This store is built with data from:
 - The [Shopify JavaScript Buy SDK](https://shopify.github.io/js-buy-sdk/)
 - [Auth0](https://auth0.com/)
 
-We’re using [Gatsby V2](https://github.com/gatsbyjs/gatsby) and [Emotion](https://emotion.sh/) to get the data on screen.
+We’re using [Gatsby V2](https://github.com/gatsbyjs/gatsby) and [Emotion](https://emotion.sh/) to get the data on your screen.
 
 The store is statically rendered using the Shopify source plugin, and the maintainer dashboard is a dynamic app (e.g. client-only routes) protected by Auth0.
 
